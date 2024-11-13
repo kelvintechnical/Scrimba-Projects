@@ -18,7 +18,7 @@
     <li><strong>Step 1: Clone the Repository</strong>
         <ul>
             <li>Clone this repository to your local machine:
-                <pre><code>git clone https://github.com/yourusername/Scrimba-Projects.git</code></pre>
+                <pre><code>git clone https://github.com/kelvintechnical/Scrimba-Projects/blob/main/README.md</code></pre>
             </li>
             <li>Navigate into the project directory:
                 <pre><code>cd Scrimba-Projects</code></pre>
@@ -94,7 +94,7 @@
     </li>
     <li><strong>Module 11: Learn React Basics</strong>
         <ul>
-    
+    <li>
             <li>Digital Business Card</li>
             <li>Airbnb Clone</li>
             <li>Travel Journal (Solo Project)</li>
