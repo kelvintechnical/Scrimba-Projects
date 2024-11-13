@@ -8,7 +8,7 @@
 <h1>Scrimba Projects</h1>
 
 <h3>Description</h3>
-<p><strong>Scrimba Projects</strong> is a curated collection of frontend projects completed in the Scrimba Bootcamp, ranging from beginner to intermediate. These projects focus on HTML, CSS, JavaScript, and React, providing hands-on experience and building a portfolio of web development skills.</p>
+<p><strong>Scrimba Projects with a Twist</strong> is a unique take on the Scrimba Bootcamp projects. Instead of following the standard curriculum, I've implemented each project in both React and Vue.js, exploring different ways to achieve the same functionality in two popular frontend frameworks. This repository showcases my flexibility and adaptability in using multiple frameworks, building a versatile portfolio in web development.</p>
 
 <h3>Prerequisites</h3>
 <p>To run these projects, make sure you have a modern web browser, code editor, and optionally, Node.js and npm for React projects.</p>
