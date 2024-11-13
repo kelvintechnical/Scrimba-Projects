@@ -49,9 +49,7 @@
     <li><strong>Module 3: Making Websites Interactive</strong>
         <ul>
             <li>Passenger Counter App</li>
-            <li>JavaScript Challenges - Part 1</li>
             <li>Blackjack Game</li>
-            <li>JavaScript Challenges - Part 2</li>
             <li>Mobile App with Firebase</li>
             <li>We Are The Champions (Solo Project)</li>
         </ul>
@@ -59,7 +57,6 @@
     <li><strong>Module 4: Essential CSS Concepts</strong>
         <ul>
             <li>NFT Site</li>
-            <li>CSS Fundamentals Challenges</li>
             <li>Oldagram (Solo Project)</li>
             <li>Coworking Space Site</li>
         </ul>
@@ -93,20 +90,17 @@
             <li>Color Scheme Generator (Solo Project)</li>
             <li>Movie Watch List (Solo Project)</li>
             <li>War</li>
-            <li>Dashboard</li>
         </ul>
     </li>
     <li><strong>Module 11: Learn React Basics</strong>
         <ul>
-            <li>React Startup</li>
-            <li>React Facts</li>
-            <li>Digital Business Card (Solo Project)</li>
+    
+            <li>Digital Business Card</li>
             <li>Airbnb Clone</li>
             <li>Travel Journal (Solo Project)</li>
             <li>Meme Generator</li>
             <li>Boxes Challenge</li>
-            <li>React Forms</li>
-            <li>Fun Facts About React</li>
+
             <li>Notes App</li>
         </ul>
     </li>
