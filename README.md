@@ -94,13 +94,10 @@
     </li>
     <li><strong>Module 11: Learn React Basics</strong>
         <ul>
-    <li>
-            <li>Digital Business Card</li>
             <li>Airbnb Clone</li>
             <li>Travel Journal (Solo Project)</li>
             <li>Meme Generator</li>
             <li>Boxes Challenge</li>
-
             <li>Notes App</li>
         </ul>
     </li>
